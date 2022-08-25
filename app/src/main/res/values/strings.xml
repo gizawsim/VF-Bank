@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VF Bank</string>
+    <string name="enter_username">Enter UserName…</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="vf_logo">VF Logo</string>
+    <string name="login">Login</string>
+    <string name="go_to_login">Go to Login</string>
 </resources>
